@@ -6,22 +6,24 @@
 body    { font: 15px/25px 'Merriweather', serif;
           margin: 0; 
           padding: 0; 
-          font-weight: 300; 
+          font-weight: 300;
+          background-color: #7a2949; 
         }
 
-.input-field    { font: 25px 'Merriweather', serif;
+.input-field    { font: 20px 'Merriweather', serif;
+        background-color: #ffffff; 
           }
 .top-buffer {
           margin-top: 120px;
 }
 
 
-a       { font-weight: 400; }
-a:hover { color: #CC0033; }
+a       { color: #d5bb82; font-weight: 400; }
+a:hover { color: #CCCC33; }
 
 /* headlines */
 h1, h2, h3, h4, h5, h6      { font-family: 'Merriweather', serif;
-                              font-weight: 300; color: #223; 
+                              font-weight: 300; color: white; 
                               margin-bottom: 1px; }
 
 h1 a:hover, h2 a:hover,
