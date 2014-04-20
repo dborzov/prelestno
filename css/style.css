@@ -8,6 +8,7 @@ body    { font: 15px/25px 'Merriweather', serif;
           padding: 0; 
           font-weight: 300;
           background-color: #7a2949; 
+          background-image: url('./bg.gif');
         }
 
 .input-field    { font: 20px 'Merriweather', serif;
